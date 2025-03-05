@@ -13,7 +13,7 @@
     <div class="absolute right-20 md:right-40 px-4">
       <h1 class="text-3xl font-bold mb-4 text-white">
         Do You Want To Earn With Us? <br />
-        So Don't Be Late.
+        Don't Be Late.
       </h1>
       <router-link to="/contact">
         <ButtonComponent text="Become A Driver" />
